@@ -3,10 +3,6 @@ from math import sqrt
 from random import uniform, normalvariate
 
 
-def probability(pc: int, tc: int) -> Union[int, float]:
-    return (pc / tc) * 100
-
-
 def mean(numbers: list[Union[int, float]]) -> Union[int, float]:
     return sum(numbers) / len(numbers)
 
