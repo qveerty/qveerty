@@ -15,7 +15,7 @@ def std(array: list[Union[int, float]]) -> Union[int, float]:
     return sqrt(variance(array))
 
 
-def generate_matrix(start: float, end: float, numbers: int) -> list:
+def generates_matrix(start: float, end: float, numbers: int) -> list:
     matrix = []
     while len(matrix) < numbers:
         matrix.append(uniform(start, end))
