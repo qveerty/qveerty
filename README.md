@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##### This is my main repository where I put some project I'm working on.
+
 <!--
 **qveerty/qveerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
